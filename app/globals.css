@@ -43,3 +43,8 @@ button{font:inherit;cursor:pointer;border:0;background:none;color:inherit}
 .hi{color:#34d399}.md{color:#fbbf24}.lo{color:#f87171}
 .reason{margin-top:.5rem;color:#a1a1aa;font-size:.78rem}
 .foot{border-top:1px solid #27272a;padding:1rem;text-align:center;color:#71717a;font-size:.72rem}
+.toolbar{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;justify-content:space-between;margin-top:1rem}
+.score-row{display:flex;justify-content:space-between;align-items:center;padding-top:.55rem;border-top:1px solid #27272a;margin-top:.5rem}
+.brand-icon{width:28px;height:28px;border-radius:8px;background:rgba(250,250,250,.08);display:grid;place-items:center;font-size:14px}
+.pill{display:inline-flex;align-items:center;gap:.5rem;border:1px solid #27272a;background:rgba(39,39,42,.4);border-radius:999px;padding:.35rem .85rem;font-size:.75rem;color:#a1a1aa;margin-bottom:1.2rem}
+.dot{width:6px;height:6px;border-radius:50%;background:#34d399}
